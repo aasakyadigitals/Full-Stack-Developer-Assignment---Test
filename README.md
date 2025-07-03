@@ -26,7 +26,7 @@ Create a simple web application using React.js that allows users to input data a
 
 ### 2. Back-End Development
 
-Develop a RESTful API using Node.js and Express.js that performs the following operations:
+Develop a RESTful API using Node.js and Express.js or if you have any other programming experience including Python and its standard frameworks and libs, that performs the following operations:
 
 - *POST /data*: Accepts data from the front-end and stores it in a MongoDB database.
 - *GET /data*: Retrieves all stored data.
